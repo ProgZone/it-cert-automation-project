@@ -1,4 +1,4 @@
-# Google IT Automation with Python Professional Certificate
+## Google IT Automation with Python Professional Certificate
 ## Final project files
 
 This repository contains the files needed to work on the final project of the
